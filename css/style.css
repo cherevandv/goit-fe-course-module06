@@ -7,7 +7,6 @@ html {
   box-sizing: inherit;
   margin: 0;
   padding: 0;
-  /* outline: 1px solid purple; */
 }
 button,
 input,
@@ -79,9 +78,6 @@ a {
   color: #f38181;
   transition: color 200ms linear;
 }
-
-/* SERVICES */
-
 .main-content {
   padding-top: 128px;
 }
@@ -162,9 +158,6 @@ a {
 .services-list-item .subtitle {
   margin-bottom: 14px;
 }
-
-/* TEAM */
-
 .team .title-section {
   margin-bottom: 42px;
 }
@@ -273,7 +266,6 @@ a {
 .footer a {
   margin-left: 4px;
   color: #f38181;
-  /* text-transform: none; */
 }
 .contact-form {
   display: flex;
